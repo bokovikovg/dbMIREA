@@ -2,4 +2,6 @@
 a repo for db studying.
 
 
-#just did there smth... saving changes
+#History of changes
+	1. first attempt 
+	
